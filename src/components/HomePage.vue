@@ -1,5 +1,5 @@
 <template>
-  <div class="all h-full">
+  <div class="all">
     
     <header class="header">
       <div class="xl:px-10 px-5 hidden justify-between w-full h-[80px] fixed top-0 left-0 z-10 bg-[#A07048]/80 xl:flex">
@@ -41,7 +41,7 @@
           <img src="../assets/icon.png" alt="">
         </div>
         <div class="flex justify-center  pt-[50px] text-[#fff]">
-          <h1 class="text-[22px]">Saytning toʻliq imkoniyatlaridan foydalanish uchun
+          <h1 class="text-[22px] text-center">Saytning toʻliq imkoniyatlaridan foydalanish uchun
             <span class="bord">Roʻyxatdan
               oʻting</span> yoki shaxsiy xonaga
             <span class="bord">kiring</span>
